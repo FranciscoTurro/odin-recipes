@@ -1,0 +1,21 @@
+.victis{
+    font-family: Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: rgb(255, 60, 0);
+}
+ul li{
+    color: blue;
+}
+
+a{
+    font-family: Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+ol li{
+    color:#FF10F0;
+    font-family: Geneva, Tahoma, sans-serif;
+}
+.imaje{
+    width: 1000px;
+    height: 500px;
+}
